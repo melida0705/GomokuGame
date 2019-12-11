@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1527036315 source:c:\users\voidbringer01\desktop\domaci\gomoku\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"Tabla.h"
+	"Igrac.h"
+	"Game.h"
+	"global.h"
+
+1526601276 source:c:\users\voidbringer01\desktop\domaci\gomoku\glob.cpp
+
+1527035405 source:c:\users\voidbringer01\desktop\domaci\gomoku\game.cpp
+	"Game.h"
+	"global.h"
+
+1527036238 c:\users\voidbringer01\desktop\domaci\gomoku\game.h
+	"Tabla.h"
+	"Igrac.h"
+
+1526600883 c:\users\voidbringer01\desktop\domaci\gomoku\tabla.h
+
+1527036129 c:\users\voidbringer01\desktop\domaci\gomoku\tabla.cpp
+	"Tabla.h"
+	"global.h"
+	<iostream>
+	<windows.h>
+
+1527035768 c:\users\voidbringer01\desktop\domaci\gomoku\global.h
+
+1526601891 c:\users\voidbringer01\desktop\domaci\gomoku\igrac.h
+
+1527035405 c:\users\voidbringer01\desktop\domaci\gomoku\igrac.cpp
+	"Igrac.h"
+	<conio.h>
+	"global.h"
+	<windows.h>
+
+1527035405 source:c:\users\voidbringer01\desktop\domaci\gomoku\igrac.cpp
+	"Igrac.h"
+	<conio.h>
+	"global.h"
+	<windows.h>
+
+1527036129 source:c:\users\voidbringer01\desktop\domaci\gomoku\tabla.cpp
+	"Tabla.h"
+	"global.h"
+	<iostream>
+	<windows.h>
+
+1527036565 source:c:\users\melida\desktop\gomoku\game.cpp
+	"Game.h"
+	"global.h"
+
+1527036238 c:\users\melida\desktop\gomoku\game.h
+	"Tabla.h"
+	"Igrac.h"
+
+1526600883 c:\users\melida\desktop\gomoku\tabla.h
+
+1526601891 c:\users\melida\desktop\gomoku\igrac.h
+
+1527035768 c:\users\melida\desktop\gomoku\global.h
+
+1527035405 source:c:\users\melida\desktop\gomoku\igrac.cpp
+	"Igrac.h"
+	<conio.h>
+	"global.h"
+	<windows.h>
+
+1527036315 source:c:\users\melida\desktop\gomoku\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"Tabla.h"
+	"Igrac.h"
+	"Game.h"
+	"global.h"
+
+1527036129 source:c:\users\melida\desktop\gomoku\tabla.cpp
+	"Tabla.h"
+	"global.h"
+	<iostream>
+	<windows.h>
+
